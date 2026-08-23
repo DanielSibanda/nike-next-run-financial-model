@@ -58,3 +58,36 @@ Additional assumption and transaction sources are documented within the workbook
 This is an independent educational portfolio case study developed by Daniel Sibanda using publicly available information. It is not affiliated with, commissioned by or endorsed by NIKE, Inc.
 
 "Next Run" is a hypothetical strategic initiative. All forecasts, scenarios and valuations represent independent analyst estimates, not NIKE management guidance or investment advice. All company names and trademarks belong to their respective owners.
+
+## Model Preview
+
+The following screenshots demonstrate the workbook's executive dashboard, scenario controls, integrated financial statements, supporting schedules and valuation outputs.
+
+<p align="center">
+  <img src="images/model-preview-01.png" width="49%" alt="NIKE model preview 1">
+  <img src="images/model-preview-02.png" width="49%" alt="NIKE model preview 2">
+</p>
+
+<p align="center">
+  <img src="images/model-preview-03.png" width="49%" alt="NIKE model preview 3">
+  <img src="images/model-preview-04.png" width="49%" alt="NIKE model preview 4">
+</p>
+
+<p align="center">
+  <img src="images/model-preview-05.png" width="49%" alt="NIKE model preview 5">
+  <img src="images/model-preview-06.png" width="49%" alt="NIKE model preview 6">
+</p>
+
+<p align="center">
+  <img src="images/model-preview-07.png" width="49%" alt="NIKE model preview 7">
+  <img src="images/model-preview-08.png" width="49%" alt="NIKE model preview 8">
+</p>
+
+<p align="center">
+  <img src="images/model-preview-09.png" width="49%" alt="NIKE model preview 9">
+  <img src="images/model-preview-10.png" width="49%" alt="NIKE model preview 10">
+</p>
+
+<p align="center">
+  <img src="images/model-preview-11.png" width="70%" alt="NIKE model preview 11">
+</p>
